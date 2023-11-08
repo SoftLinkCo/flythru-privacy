@@ -5,7 +5,7 @@ We may be contacted by email at info@flythru.net or via the Platforms.
 By using our Services and/or the Platforms, you agree to be bound by these Terms. If a Booking Request (as defined below) is made on your behalf by a third party, your continued use of the Services and/or the Platforms means you agree to these Terms. If you do not agree to the Terms, please do not make a Booking Request nor use our Services.
 1.	Interpretation; Binding Nature
 2.	When do we collect images?
-We collect information from you when you place an order or enter image on our app.
+We collect images from you when you place an order or enter image on our app.
 
 •	1.1 By using the Services and/or the Platform(s), you also agree to be additionally bound by any other terms and conditions as published on the Platforms from time to time, including but not limited to the privacy policy, which are applicable and hereby incorporated by reference into these Terms.
 •	1.2 Unless defined elsewhere in the Terms, the following terms shall have the meaning set out below:
