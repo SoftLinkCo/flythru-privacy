@@ -1,10 +1,9 @@
-About Flythru Application and Website: flythru.net
-
+# Privacy Policy
 Lately, people in all countries of the world have gone shopping online, particularly during the spread of the new Coronavirus, as well as online shopping has turned out to be the cheapest and easiest way to buy different products, goods, and services, and the value of such purchases can be paid in several methods of payment without the need to waste time or effort. Flythru Application and Website: flythru.net is among the best websites and applications that provide online shopping for coupons and discounts in Kuwait.
 
  
 
-Flythru Application and Website: flythru.net
+## Flythru Application
 
 Flythru Application and Website: flythru.net is a very large platform, and it is also secure and safe for the customer related to online shopping and e-sales, as Flythru Application and Website:flythru.net strive to provide the best offers, coupons, and discounts available.
 
