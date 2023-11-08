@@ -153,3 +153,8 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 ## Contact Information
 
 For any questions or concerns regarding the privacy policy, please send me an email at info@flythru.net.
+
+
+## Collecting data and images
+
+We collect data from users when place orders and we need images for bags so we can collect bags from airport belts for users we need users to upload bag images and we will not use these images for any other purposes 
