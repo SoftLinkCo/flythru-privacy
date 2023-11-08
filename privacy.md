@@ -4,6 +4,9 @@ Please read these customer terms and conditions (the “Terms”) carefully befo
 We may be contacted by email at info@flythru.net or via the Platforms.
 By using our Services and/or the Platforms, you agree to be bound by these Terms. If a Booking Request (as defined below) is made on your behalf by a third party, your continued use of the Services and/or the Platforms means you agree to these Terms. If you do not agree to the Terms, please do not make a Booking Request nor use our Services.
 1.	Interpretation; Binding Nature
+2.	When do we collect images?
+We collect information from you when you place an order or enter image on our app.
+
 •	1.1 By using the Services and/or the Platform(s), you also agree to be additionally bound by any other terms and conditions as published on the Platforms from time to time, including but not limited to the privacy policy, which are applicable and hereby incorporated by reference into these Terms.
 •	1.2 Unless defined elsewhere in the Terms, the following terms shall have the meaning set out below:
 	(a) “Booking” means a Booking Request that has been confirmed by us and notified to you as being accepted in accordance with clause 2.3;
@@ -25,7 +28,7 @@ By using our Services and/or the Platforms, you agree to be bound by these Terms
 •	(q) “Terms” means these Standard Terms and Conditions incorporating the additional terms and conditions set out in the Schedules including in respect of the Service.
 •	(r) “Coverage Area” means the area we service. Please visit our Platforms for details including a list of areas covered.
 •	(s) “Bags Ineligible for Check-in Service” means Bags (including but not limited to musical instruments and sports equipment) which are subject to a charge imposed by the airline based on the nature of the item, including but not limited to valuable items subject to a special declaration charge, excess, overweight and oversize items, and any items containing goods which are prohibited or restricted by the relevant Partner Airline or by Kuwait customs or transport authorities (including firearms, ammunition, flammable or explosive items and other items as listed on the relevant Partner Airline’s dangerous goods list, as available from their website. 
-2.	Our Services and Bookings
+4.	Our Services and Bookings
 •	2.1 You may make a Booking Request via the Platforms.
 •	2.2 We reserve the right to decline any Booking Request or to cancel any Booking at our discretion.
 •	2.3 A Booking Request will only be considered to be a Booking if you have received an email or other notification from us expressly confirming the Booking Request. All Bookings are subject to the terms of these Terms.
@@ -35,7 +38,7 @@ By using our Services and/or the Platforms, you agree to be bound by these Terms
 •	2.7 All Bookings can be amended free of charge up to 3 hours before the Scheduled Time (subject to relevant additional charges for service changes). The Check-In Service Bookings from the Coverage Area to the airport must be cancelled no later than 3 hours before the Scheduled Time for collection at the customer’s address in order to be eligible for a full refund.
 •	2.8 We will endeavor not to cancel or change your Booking once it has been accepted. However, from time to time it may be necessary and we reserve the right to do so.
 •	2.9 You must provide FlyThru with valid contact telephone and/or email details in order to ensure that contact is possible at any time for updates, amendments or alterations to your booking.
-3.	Fees and Payment
+5.	Fees and Payment
 •	3.1 Fees for our Services are displayed on our Platforms and are applicable at the time that you make your Booking. 
 •	3.2 We require payment in advance and prior to confirming a Booking for all Services. We accept payment by K-net, credit card or debit card.
 •	3.3 Our prices may change at any time but price changes will not affect Bookings that we have confirmed with you.
@@ -44,7 +47,7 @@ By using our Services and/or the Platforms, you agree to be bound by these Terms
 •	any Bag that is overweight;
 •	any Bag that is oversized. 
 •	3.5 In the event that we pay on your behalf any charge due to the relevant airline in respect of any Bag, you agree to reimburse this payment to us without delay.
-4.	Customer Obligations
+6.	Customer Obligations
 •	Customer:
 	4.1 will ensure that all luggage is given to us at the Pick-up Address within the Pick-up Time and that all luggage is as specified in the Booking when using the Check-in Service;
 	4.2 will ensure that all luggage is properly closed and secure, and that the weight of any one piece of luggage is less than or equal to your maximum allowable luggage weight (as per your airline booking);
@@ -63,7 +66,7 @@ By using our Services and/or the Platforms, you agree to be bound by these Terms
 	4.11.1 Pick-up Address within the Pick-up Time then we may cancel your Booking and you will forfeit any Fees paid in respect of that Booking; or
 	4.11.2 Collection Address within the Collection Time then we may store your luggage until an alternative collection appointment is arranged with you and you will reimburse us for all costs that we incur in doing so as per Clause 9.1.
 •	4.12 You agree to be present (or a third-party representative) at the agreed times as set out in your Booking.
-5.	Our Obligations (FlyThru Company)
+7.	Our Obligations (FlyThru Company)
 •	5.1 We:
 	5.1.1 shall ensure that the Services are provided with reasonable skill and care;
 	5.1.2 will use all reasonable endeavors to pick up your luggage at the Pick-up Address during the Pick-up Time and to deliver your luggage to the Collection Address during the Collection Time;
@@ -75,7 +78,7 @@ By using our Services and/or the Platforms, you agree to be bound by these Terms
 •	5.3 In the unlikely event that we fail to deliver your Bag to the Airport when using the Check-in Service by the Scheduled Time due to circumstances within our control and your bag consequently misses your flight, we will ensure that the Bag is sent on to your final ticketed destination and you will be fully refunded.
 •	5.4 We will only accept and deliver the Bag for the person we reasonably believe to be the Customer or a third-party acting on behalf of the customer.
 
-6. Check-In Service by FlyThru Employee: 
+8. Check-In Service by FlyThru Employee: 
 •	6.1 All participating passengers must check in online (or mobile device) with the Airline prior to Bag acceptance.
 •	6.2 The Check-In Service must be booked for or by the passenger in whose name the flight reservation is made. If several passengers are travelling under one flight booking, these names must be included in the Booking Request at the time of Booking. Failure to provide such information may result in immediate cancellation of the Booking by us.
 •	6.3 All participating passengers must be present during Bag collection with their valid boarding pass (or proof of check-in) available for presentation, and the passport (or in the case of GCC flights, such other identification as may be accepted by the Partner Airline) used during the online check-in process.
@@ -97,14 +100,14 @@ o	6.10.5 FlyThru, in collaboration with Jazeera Airways, aims to ensure that you
 o	6.10.6 FlyThru and Jazeera Airways are not liable for any changes made by the airline after the check-in process has been completed, including but not limited to flight cancellations, changes to flight times, or seat reallocation.
 o	6.10.7 In the event of any discrepancies or issues related to the Check-In Service, you must notify FlyThru immediately. FlyThru will work in close coordination with Jazeera Airways to address and resolve any concerns pertaining to the Check-In Service.
 
-7.	Arrival Service – Specific Terms and Conditions
+9.	Arrival Service – Specific Terms and Conditions
 •	7.1 The Arrival Service is provided in conjunction with Kuwait International Airport (KWI).
 •	7.2 If your luggage does not arrive at the airport, we will report your luggage as “mishandled baggage” to the Lost & Found Office (“L&F Office”) in the airport. When your luggage is located and is present at the L&F Office, we will use reasonable endeavors to deliver the luggage to you. For the avoidance of doubt, liability for your luggage remains with the airline until we receive it.
 •	7.3 If your bag appears to be damaged when it arrives at the Baggage Belt, you will be informed accordingly. For the avoidance of doubt, liability for your luggage remains with the airline until it clears customs and is in our possession.
 •	7.4 In the event of a delay to your flight or if your luggage is delayed in arriving at the baggage belt or in being made available to us at the airport, we will amend the Collection Time from that shown in your Booking. We will use reasonable endeavors to notify you of any delay to your luggage and any change to the Collection Time.
 •	7.5 All luggage will pass through x-ray screening by Kuwait Customs at the airport. If Kuwait Customs or any other regulatory authority want to further inspect any luggage, we will contact you and you must return to the airport at your own expense in order to be physically present at the time of such inspection if required. This is a Kuwait Customs requirement and any related protocols are subject to change at any time.
 
-8.	Amendments and Cancellation
+10.	Amendments and Cancellation
 •	8.1 Subject to the conditions herein, you may amend or cancel a Booking either via the Platforms or by contacting us. Any amendment or cancellation of a Booking is confirmed and completed only when we send a confirmation to you by email or via the Platforms.
 •	8.2 You may amend a Booking at any time provided that the amendment is received and confirmed by us more than three hours prior to the Pick-up Time or more than three hours prior to the Collection Time.
 •	8.3 Cancellations must be made 3 hours or more before the booked time to be eligible for a refund. Bookings cancelled after Bags have been collected are not eligible for a refund. Additional costs may apply to repatriate Bags.
@@ -115,10 +118,10 @@ o	8.5.2 where you have provided an invalid delivery address; or
 o	8.5.3 where we believe that you have misused our Services,
 o	8.5.4 and we will use reasonable endeavors to notify you of this.
 
-9.	Failure to Collect or Pay for your Luggage
+11.	Failure to Collect or Pay for your Luggage
 •	9.1 If you do not collect your luggage within the Collection Time for the Arrival Service, we will be entitled to store your luggage until our next available time slot is selected by you for re-delivery. Our overnight storage fee is KWD 2 per order (overnight Storage fee is to be implemented upon storing your luggage with us for 24 hours). A fee of KWD 2 will be incurred upon surpassing the overnight storage hour mark per order. Our fee for re-delivery of your Booking Request is KWD 2 per order.
 •	9.2 If you have not collected the delivery of your luggage or paid any outstanding fees within 28 days of the end of the Collection Time as shown in your original Booking, you will be deemed to have renounced your rights for your luggage.
-10.	Our Liability (FlyThru)
+12.	Our Liability (FlyThru)
 •	10.1 Subject to the following provisions of these Terms, we will only be liable for loss or damage to your luggage arising as a direct result of our Services, and provided that the luggage is not or does not contain a Prohibited Item.
 •	10.2 To the maximum extent permitted by law, our liability arising out of, or in connection with, these Terms and our provision of the Services to you will be limited in the aggregate to a maximum of KWD 250 per Booking.
 •	10.3 In the event of loss or damage to your luggage, our liability shall not exceed KWD 120 in respect of an individual item of luggage and KWD 250 per Booking.
@@ -133,10 +136,10 @@ o	8.5.4 and we will use reasonable endeavors to notify you of this.
 •	10.12 It is the Customers’ responsibility to ensure that all Bags are insured to the value of the contents of the Bags. We do not insure any Bags independently, as we do not have access to details of their contents and value.
 •	10.13 Although we provide Services in co-operation with airlines, the airlines are not responsible for our Services and have no liability, whether under or in connection with this Contract or otherwise, for our negligence, breach of contract or other failure in connection with the Services.
 •	10.13 You acknowledge that the limitations of liability set out in these Terms are fair and reasonable in the circumstances and have been taken into account and reflected in the level of the Fees before making any Booking Request.
-11.	Data privacy
+13.	Data privacy
 •	11.1 By accepting these Terms, you also agree that we may process information relating to you in accordance with, and otherwise accept the terms of, our privacy policy, which can be found on our Platforms. Our privacy policy sets out details related to how we use the personal information you provide to us or we otherwise obtain about you. If you make a Booking on behalf of any other person it is your responsibility and obligation to draw their attention to our privacy policy and ensure that they also agree to such terms and that we may process information relating to them in accordance with the privacy policy for our operational purposes.
 
-12.	General
+14.	General
 •	12.1 Where we consider it appropriate, we will place our own security measures (i.e. Locks, Luggage Seals, Zip Tags, etc.) on your luggage.
 •	12.2 We will store your luggage at a secure location prior to Delivery of the bag(s).
 •	12.3 You must collect your luggage from the Collection Address during the Collection Time. If you fail to do so, we shall be entitled to charge you for additional storage fees and for redelivery to the Collection Address as per Clause 9.1.
@@ -160,29 +163,29 @@ o	8.5.4 and we will use reasonable endeavors to notify you of this.
 •	12.21 We operate promotions from time to time and reserve the right to amend and withdraw any promotions at any time.
 •	12.22 You must be over 18 years of age to enter into a Contract with us. If you do not qualify, please do not use our Services.
 
-13.	Becoming a registered user
+15.	Becoming a registered user
 •	13.1 To become a registered user you must provide an email address and password. You must treat such password as confidential, and you must not disclose it to any other person or entity. You also acknowledge that your account is personal to you and agree not to provide any other person with access to this Website or portions of it using your password or other security information. You agree to notify us immediately of any unauthorized access to or use of your password or any other breach of security.
 •	13.2 We have the right to disable any user name, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have breached any provision of these Terms.
 
-14.	Fair usage policy
+16.	Fair usage policy
 •	14.1 We reserve the right to reject or subsequently cancel Bookings where we believe there to be mis-use of our Services by you or a third party for commercial gain.
-15.	Dispute Resolution 
+17.	Dispute Resolution 
 •	15.1 Any dispute, controversy or claim arising out of or relating to these Terms or the breach, termination or invalidity thereof, shall be settled by arbitration in accordance with the laws of the State of Kuwait. 
 •	15.2 The arbitration shall be conducted by one arbitrator to be appointed in accordance with the rules of the local arbitration institution. The venue of the arbitration shall be Kuwait. The language to be used in the arbitration shall be English. 
 •	15.3 The decision of the arbitrator shall be final and binding on the parties, and may be entered and enforced in any court of competent jurisdiction. 
 •	15.4 Notwithstanding the foregoing, we reserve the right to pursue the protection of intellectual property rights and confidential information through injunctive or other equitable relief through the courts.
 
-16.	Force Majeure 
+18.	Force Majeure 
 16.1 We will not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under these Terms that is caused by events outside our reasonable control, including but not restricted to, strikes, lock-outs or other industrial action by third parties, civil commotion, riot, invasion, terrorist attack or threat of terrorist attack, war (whether declared or not) or threat or preparation for war, fire, explosion, storm, flood, earthquake, subsidence, epidemic or other natural disaster, or failure of public or private telecommunications networks. 
 
 
 
-17.	Contacting Us 
+19.	Contacting Us 
 17.1 If you have any questions about these Terms or your use of our Services, please contact us at info@flythru.net.  
 17.2 Any formal legal notices should be sent to us at our Customer Services address set out in the 'Contact Us' section of our Platforms. 
 17.3 Failure to comply with this requirement may result in a delayed response.
 
-18.	Complaints Procedure 
+20.	Complaints Procedure 
 18.1 If you have any problems with our Services, please contact our customer service team who will try to resolve your issue. 
 18.2 If, after contacting our customer service team, you feel that your issue has not been resolved to your satisfaction, please write to us at info@flythru.net detailing the issue and steps taken so far. 
 18.3 We will aim to respond to your complaint within 48-72 hours, and we will do our best to resolve any problems that arise.
