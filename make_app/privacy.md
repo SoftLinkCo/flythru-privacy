@@ -53,8 +53,6 @@ Twitter       : https://twitter.com/makekw
 
 Snapchat    : https://www.snapchat.com/add/make
 
-Linkedin     : https://www.linkedin.com/in/go-pon
-
  
 
 Features of make Application and Website: make.net
